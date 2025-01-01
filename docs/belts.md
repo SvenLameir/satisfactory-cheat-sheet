@@ -10,7 +10,7 @@
 
 | Throughput (Both Sides) | Underground Spacing | Belt Type |
 |--------------------------|---------------------|-----------|
-| 15 i/s                  | 4 tiles            | ![Belt 1](docs/assets/belts/Conveyor_Belt_Mk.1.webp){ align=left } |
+| 15 i/s                  | 4 tiles            | ![Belt 1](assets/belts/Conveyor_Belt_Mk.1.webp){ width="100" loading=lazy align=right } |
 | 30 i/s                  | 6 tiles            |  |
 | 45 i/s                  | 8 tiles            | |
 | 60 i/s                  | 10 tiles           | |
