@@ -1,28 +1,26 @@
-# Belts
+# Conveyor Belt
 
-!!! info "See [Belt Transport System](#) for all relevant belt information."
+## Lenght
+The maximum length of a conveyor belt is 56 meters
 
-### Transport Belt Throughput
-- **Items per second (i/s):** Passed over one belt tile.
+## Conveyor Belt Comparison
 
-### Transport Belt Density
-- **Maximum items per tile:** 8 items for all belts.
+| Belt Type | Throughput | Speed Difference | Image |
+|---|---|---|---|
+| Mk.1 |60 i/m| N/A | ![Belt 1](assets/Conveyor_Belt/Conveyor_Belt_Mk.1.webp){ width="100" loading=lazy align=right } |
+| Mk.2 |120 i/m | 2x | ![Belt 2](assets/Conveyor_Belt/Conveyor_Belt_Mk.2.webp){ width="100" loading=lazy align=right } |
+| Mk.3 |270 i/m| 2.25x | ![Belt 3](assets/Conveyor_Belt/Conveyor_Belt_Mk.3.webp){ width="100" loading=lazy align=right } |
+| Mk.4 |480 i/m| 1.77778× | ![Belt 4](assets/Conveyor_Belt/Conveyor_Belt_Mk.4.webp){ width="100" loading=lazy align=right } |
+| Mk.5 |780 i/m| 1.625× | ![Belt 5](assets/Conveyor_Belt/Conveyor_Belt_Mk.5.webp){ width="100" loading=lazy align=right } |
+| Mk.6 |1200 i/m| 1.538× | ![Belt 6](assets/Conveyor_Belt/Conveyor_Belt_Mk.6.webp){ width="100" loading=lazy align=right } |
 
-| Throughput (Both Sides) | Underground Spacing | Belt Type |
-|--------------------------|---------------------|-----------|
-| 15 i/s                  | 4 tiles            | ![Belt 1](assets/belts/Conveyor_Belt_Mk.1.webp){ width="100" loading=lazy align=right } |
-| 30 i/s                  | 6 tiles            |  |
-| 45 i/s                  | 8 tiles            | |
-| 60 i/s                  | 10 tiles           | |
+## Pioneer transportation
 
-### Additional Information
-All belts can hold up to **8 items on each tile**.
-
-#### Example of Circuit Connection
-
-- **Signals:**
-  - Connected to network: ☑️
-  - Mode of operation: Enable/disable
-  - Content read mode: Pulse/Hold
-- **Last User:** DDOGGamer
-- **Health:** 100/100
+| Belt Type | Speed (standing) | Speed (Running with Blade Runners)
+|---|---|---|
+| Mk.1 | 4.32 km/h | 52.92 km/h |
+| Mk.2 | 8.64 km/h | 57.24 km/h  |
+| Mk.3 | 19.44 km/h | 68.04 km/h |
+| Mk.4 | 34.56 km/h | 83.16 km/h |
+| Mk.5 | 56.16 km/h | 104.76 km/h |
+| Mk.6 | 86.4 km/h | 135 km/h |
