@@ -24,3 +24,5 @@ The maximum length of a conveyor belt is 56 meters
 | Mk.4 | 34.56 km/h | 83.16 km/h |
 | Mk.5 | 56.16 km/h | 104.76 km/h |
 | Mk.6 | 86.4 km/h | 135 km/h |
+
+[Source](https://satisfactory.fandom.com/wiki/Conveyor_Belt#Mk.1)
