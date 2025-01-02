@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://sitename.example/</loc>
+         <lastmod>2025-01-02</lastmod>
+    </url>
+    <url>
+         <loc>https://sitename.example/Coal_Power/</loc>
+         <lastmod>2025-01-02</lastmod>
+    </url>
+    <url>
+         <loc>https://sitename.example/Conveyor_Belt/</loc>
+         <lastmod>2025-01-02</lastmod>
+    </url>
+    <url>
+         <loc>https://sitename.example/Fuel_Conveyor_Capacity/</loc>
+         <lastmod>2025-01-02</lastmod>
+    </url>
+    <url>
+         <loc>https://sitename.example/Solid_Biofuel/</loc>
+         <lastmod>2025-01-02</lastmod>
+    </url>
+    <url>
+         <loc>https://sitename.example/Starter_Layouts/</loc>
+         <lastmod>2025-01-02</lastmod>
+    </url>
+</urlset>
